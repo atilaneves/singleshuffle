@@ -56,7 +56,7 @@ public class PortalActivity extends Activity {
         startActivity(intent);
     }
 
-    public void playSingles() {
+    public void playSingles(View view) {
 
     }
 
