@@ -12,11 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e08e048b-d19d-42e3-b0f3-3116ea88baed" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/list_item_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/list_view.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/atilamusic/singleshuffle/AlbumsActivity.java" afterPath="$PROJECT_DIR$/src/com/atilamusic/singleshuffle/AlbumsActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/atilamusic/singleshuffle/PortalActivity.java" afterPath="$PROJECT_DIR$/src/com/atilamusic/singleshuffle/PortalActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_albums.xml" afterPath="$PROJECT_DIR$/res/layout/activity_albums.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/list_view.xml" afterPath="$PROJECT_DIR$/res/layout/list_view.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="singleshuffle.iws" />
@@ -105,23 +102,11 @@
       <file leaf-file-name="AlbumsActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/atilamusic/singleshuffle/AlbumsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.4494382" vertical-offset="0" max-vertical-offset="623">
+            <state line="13" column="1" selection-start="521" selection-end="521" vertical-scroll-proportion="0.41733548" vertical-offset="0" max-vertical-offset="623">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list_view.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/list_view.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="-3.0769231" vertical-offset="0" max-vertical-offset="200">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -174,8 +159,8 @@
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/list_view.xml" />
         <option value="$PROJECT_DIR$/res/layout/activity_albums.xml" />
-        <option value="$PROJECT_DIR$/src/com/atilamusic/singleshuffle/AlbumsActivity.java" />
         <option value="$PROJECT_DIR$/src/com/atilamusic/singleshuffle/PortalActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/atilamusic/singleshuffle/AlbumsActivity.java" />
       </list>
     </option>
   </component>
@@ -478,7 +463,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6707946" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32920536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32920536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -574,16 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/list_view.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="-3.0769231" vertical-offset="0" max-vertical-offset="200">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="88" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="680">
@@ -593,7 +568,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atilamusic/singleshuffle/AlbumsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="0.4494382" vertical-offset="0" max-vertical-offset="623">
+        <state line="13" column="1" selection-start="521" selection-end="521" vertical-scroll-proportion="0.41733548" vertical-offset="0" max-vertical-offset="623">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
