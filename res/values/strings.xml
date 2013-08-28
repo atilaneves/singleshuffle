@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Single Shuffle Music Player</string>
+    <string name="app_name">Single Shuffle</string>
     <string name="action_settings">Settings</string>
     <string name="albums">Albums</string>
     <string name="singles">Singles</string>

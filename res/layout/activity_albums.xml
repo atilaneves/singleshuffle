@@ -15,20 +15,11 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true">
 
-        <Button
+        <TextView
             android:id="@+id/albums_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="viewAlbums"
-            android:text="@string/albums" />
-
-        <Button
-            android:id="@+id/singles_button"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="playSingles"
-            android:text="@string/singles" />
-
-
+            android:text="You should be seeing albums here" />
     </LinearLayout>
 </RelativeLayout>
